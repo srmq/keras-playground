@@ -1,0 +1,8 @@
+data/
+models/
+test/
+train/
+train_original/
+valid/
+.ipynb_checkpoints/
+.venv/
